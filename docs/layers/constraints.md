@@ -9,11 +9,11 @@ This page is normative and defines ADM semantics.
 # Constraints
 
 ## Definition
-Non-structural limitations (regulatory, organisational, technical).
+Non-structural limitations (regulatory, organizational, technical).
 
 ## Allowed Content
 - Regulatory limits
-- Organisational limits
+- Organizational limits
 - Non-structural technical limits
 
 ## Forbidden Content
