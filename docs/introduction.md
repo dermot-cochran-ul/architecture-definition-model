@@ -19,3 +19,13 @@ ADM is a strict architectural framework for defining, governing, and enforcing G
 ## Authority
 This site is the single public reference for ADM concepts and rules.
 The ADM is the single source of truth.
+
+## Canonical Source
+This repository is the canonical public reference for the Architecture Definition Model (ADM).
+Forks and derivatives are permitted under the license, but this repository remains the authoritative source.
+
+## Copyright and License
+Copyright © 2026 UL Solutions Inc.
+All rights reserved except as licensed below.
+
+Creative Commons BY 4.0 (CC BY 4.0)
