@@ -20,3 +20,14 @@ Copyright © 2026 UL Solutions Inc.
 All rights reserved except as licensed below.
 
 Creative Commons BY 4.0 (CC BY 4.0)
+
+## Disclaimer
+
+This project is published in a personal capacity.
+
+Any intellectual property rights arising from my employment are retained by
+UL Solutions, as applicable. No endorsement, sponsorship, or approval by
+UL Solutions is implied.
+
+The views and materials expressed here are my own and are provided for
+informational purposes only.
