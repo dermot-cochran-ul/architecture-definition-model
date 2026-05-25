@@ -1,0 +1,10 @@
+title: Architecture Definition Model (ADM) Specification
+description: Public canonical ADM specification site
+markdown: kramdown
+theme: minima
+header_pages:
+  - docs/overview.md
+  - docs/principles.md
+  - docs/layers/index.md
+  - docs/rules/index.md
+  - CHANGELOG.md
