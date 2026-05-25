@@ -32,7 +32,7 @@ This repository does **not**:
 
 This project is published in a personal capacity.
 
-Any intellectual property rights arising from my employment are retained by
+Any intellectual property rights that may arise from my employment are retained by
 **UL Solutions**, as applicable. No endorsement, sponsorship, or approval by
 UL Solutions is implied.
 
