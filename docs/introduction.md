@@ -25,8 +25,9 @@ This repository is the canonical public reference for the Architecture Definitio
 Forks and derivatives are permitted under the license, but this repository remains the authoritative source.
 
 ## Copyright and License
-Copyright © 2026 UL Solutions Inc.
-All rights reserved except as licensed below.
+Copyright © 2026.
+Authorship by Dermot Cochran.
+Intellectual property rights, if any, retained by UL Solutions.
 
 Creative Commons BY 4.0 (CC BY 4.0)
 

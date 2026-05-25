@@ -27,8 +27,9 @@ Forks and derivatives are permitted under the license, but this repository remai
 - [Changelog](/changelog/)
 
 ## Copyright and License
-Copyright © 2026 UL Solutions Inc.
-All rights reserved except as licensed below.
+Copyright © 2026.
+Authorship by Dermot Cochran.
+Intellectual property rights, if any, retained by UL Solutions.
 
 Creative Commons BY 4.0 (CC BY 4.0)
 
