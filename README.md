@@ -1,55 +1,92 @@
 # Architecture Definition Model (ADM)
 
-Public, canonical ADM specification site published via GitHub Pages.
+The Architecture Definition Model (ADM) is a structured, layered framework for
+defining, governing, and enforcing the architecture of Generative AI systems.
 
-- Specification source: `/docs`
-- Changelog: `/CHANGELOG.md`
+ADM exists to ensure that:
+- Architecture is explicit and human‑owned
+- Responsibilities and boundaries are clearly defined
+- Agents operate within defined constraints
+- Architectural evolution is deliberate and auditable
 
-- Introduction: `/docs/introduction.md`
-- Tutorials: `/docs/tutorials.md`
-- Worked examples: `/docs/worked-examples.md`
+This repository provides a **public reference** for ADM concepts, terminology,
+rules, and illustrative examples.
 
-## Canonical Reference
+---
 
-This repository serves as the canonical public reference for the
-Architecture Definition Model (ADM) as described by the author.
+## Scope
 
-Forks and derivatives are permitted under the applicable licenses;
-however, this repository is the authoritative reference location.
+This repository contains:
+- Canonical definitions of ADM layers and concepts
+- Explanatory guides for applying ADM
+- Non‑authoritative examples and templates
 
-## Copyright and License
+This repository does **not**:
+- Define implementation requirements
+- Provide production‑ready systems
+- Imply adoption by any organization
 
-Copyright © 2026.
-Authorship by Dermot Cochran.
-Intellectual property rights, if any, retained by UL Solutions.
-
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
 
 ## Disclaimer
 
 This project is published in a personal capacity.
 
 Any intellectual property rights arising from my employment are retained by
-UL Solutions, as applicable. No endorsement, sponsorship, or approval by
+**UL Solutions**, as applicable. No endorsement, sponsorship, or approval by
 UL Solutions is implied.
 
-The views and materials expressed here are my own and are provided for
-informational purposes only.
+The views, ideas, and materials expressed here are my own and are provided
+for informational purposes only.
+
+---
+
+## Intellectual Property Notice
+
+This work was developed independently and does not incorporate proprietary,
+confidential, or internal materials from any employer.
+
+All trademarks and registered trademarks, if referenced, are the property of
+their respective owners.
+
+---
+
+## Canonical Reference
+
+This repository serves as the canonical public reference for the
+Architecture Definition Model (ADM) as described by the author.
+
+Forks and derivative works are permitted under the applicable licenses;
+however, this repository remains the authoritative reference location.
+
+---
 
 ## License
 
-### Documentation and explanatory text
+This material is made available under the licenses below **to the extent
+permitted by applicable intellectual property rights**.
 
-This documentation is provided under the Creative Commons Attribution 4.0
-International License (CC BY 4.0), to the extent permitted by applicable
-intellectual property rights.
+- Documentation, definitions, and explanatory text are licensed under  
+  **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
-Intellectual property rights, if any, are retained by UL Solutions.
+- Example code, configuration, and prompt templates are licensed under  
+  **Apache License, Version 2.0**
 
-### Example code, configuration, and prompts
+Nothing in this repository grants rights to any intellectual property
+owned by UL Solutions beyond what is permitted by law.
 
-Licensed under the Apache License, Version 2.0, to the extent permitted by
-applicable intellectual property rights.
+See `LICENSE.docs` and `LICENSE.code` for full license texts.
 
-Nothing in this license grants rights to intellectual property owned by
-UL Solutions beyond what is permitted by law.
+---
+
+## Contributions
+
+Contributions are welcome, but architectural changes must respect ADM
+layer discipline and semantic rules.
+
+Significant changes should be proposed as documented decisions
+(Architecture Decision Records) rather than implicit edits.
+
+---
+
+## Contact
