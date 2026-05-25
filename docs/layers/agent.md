@@ -9,7 +9,7 @@ This page is normative and defines ADM semantics.
 # Agent
 
 ## Definition
-Autonomous behaviour or control logic (not structural).
+Autonomous behavior or control logic (not structural).
 
 ## Allowed Content
 - Autonomous behavior definitions
