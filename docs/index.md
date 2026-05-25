@@ -21,14 +21,14 @@ Forks and derivatives are permitted under the applicable licenses;
 however, this repository is the authoritative reference location.
 
 ## Navigation
-- [Introduction](/introduction/)
-- [Overview](/overview/)
-- [Principles](/principles/)
-- [Tutorials](/tutorials/)
-- [Worked Examples](/worked-examples/)
-- [Layers](/layers/)
-- [Rules](/rules/)
-- [Changelog](/changelog/)
+- [Introduction]({{ site.baseurl }}/introduction/)
+- [Overview]({{ site.baseurl }}/overview/)
+- [Principles]({{ site.baseurl }}/principles/)
+- [Tutorials]({{ site.baseurl }}/tutorials/)
+- [Worked Examples]({{ site.baseurl }}/worked-examples/)
+- [Layers]({{ site.baseurl }}/layers/)
+- [Rules]({{ site.baseurl }}/rules/)
+- [Changelog]({{ site.baseurl }}/changelog/)
 
 ## Copyright and License
 Copyright © 2026.
