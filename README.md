@@ -9,10 +9,13 @@ Public, canonical ADM specification site published via GitHub Pages.
 - Tutorials: `/docs/tutorials.md`
 - Worked examples: `/docs/worked-examples.md`
 
-## Canonical Source
+## Canonical Reference
 
-This repository is the canonical public reference for the Architecture Definition Model (ADM).
-Forks and derivatives are permitted under the license, but this repository remains the authoritative source.
+This repository serves as the canonical public reference for the
+Architecture Definition Model (ADM) as described by the author.
+
+Forks and derivatives are permitted under the applicable licenses;
+however, this repository is the authoritative reference location.
 
 ## Copyright and License
 

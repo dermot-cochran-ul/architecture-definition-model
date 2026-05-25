@@ -12,9 +12,13 @@ This page is normative and defines ADM semantics.
 
 The ADM is the single source of truth for architecture semantics.
 
-## Canonical Source
-This repository is the canonical public reference for the Architecture Definition Model (ADM).
-Forks and derivatives are permitted under the license, but this repository remains the authoritative source.
+## Canonical Reference
+
+This repository serves as the canonical public reference for the
+Architecture Definition Model (ADM) as described by the author.
+
+Forks and derivatives are permitted under the applicable licenses;
+however, this repository is the authoritative reference location.
 
 ## Navigation
 - [Introduction](/introduction/)
