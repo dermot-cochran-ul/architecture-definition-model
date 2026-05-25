@@ -44,14 +44,18 @@ informational purposes only.
 
 ## License
 
-This material is made available under the licenses below to the extent
-permitted by applicable intellectual property rights.
+### Documentation and explanatory text
 
-Documentation and explanatory text are licensed under
-Creative Commons Attribution 4.0 International (CC BY 4.0).
+This documentation is provided under the Creative Commons Attribution 4.0
+International License (CC BY 4.0), to the extent permitted by applicable
+intellectual property rights.
 
-Example code, configuration, and prompts are licensed under
-the Apache License, Version 2.0.
+Intellectual property rights, if any, are retained by UL Solutions.
 
-Nothing in this repository grants rights to any intellectual property
-owned by UL Solutions beyond what is permitted by law.
+### Example code, configuration, and prompts
+
+Licensed under the Apache License, Version 2.0, to the extent permitted by
+applicable intellectual property rights.
+
+Nothing in this license grants rights to intellectual property owned by
+UL Solutions beyond what is permitted by law.
