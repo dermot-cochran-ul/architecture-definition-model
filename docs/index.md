@@ -23,6 +23,7 @@ however, this repository is the authoritative reference location.
 ## Navigation
 - [Introduction]({{ site.baseurl }}/introduction/)
 - [Overview]({{ site.baseurl }}/overview/)
+- [ADM and C4: Complementary, Not Competing]({{ site.baseurl }}/adm-and-c4/)
 - [Principles]({{ site.baseurl }}/principles/)
 - [Tutorials]({{ site.baseurl }}/tutorials/)
 - [Worked Examples]({{ site.baseurl }}/worked-examples/)

@@ -61,6 +61,14 @@ The horizontal layers apply across the model:
 - **Constraints** define limits, obligations, and prohibitions
 - **Decisions** record deliberate architectural choices and rationale
 
+## How ADM Relates to C4
+
+ADM is the authoritative model for architecture semantics, governance, and conformance.
+C4 is a diagramming framework used to communicate architecture at multiple zoom levels.
+
+C4 views should be derived from ADM and must not redefine ADM layers or meanings.
+For detailed guidance, see [ADM and C4: Complementary, Not Competing]({{ site.baseurl }}/adm-and-c4/).
+
 ## Running Example: AI Support Assistant
 
 Consider an AI support assistant used by customers to ask product and troubleshooting questions.
@@ -134,62 +142,3 @@ What limits govern the system?
 
 - The system must not invent unsupported claims
 - High-risk advice must be reviewed or escalated
-- All responses must be logged
-- The system must not bypass defined escalation rules
-
-### Decisions
-What architectural choices have been deliberately made?
-
-- Retrieval is required before answer generation
-- Escalation is mandatory above a confidence/risk threshold
-- Policy validation occurs before response delivery
-- Audit logging is part of the core architecture, not an optional add-on
-
-## How to Read ADM Correctly
-
-A useful way to read ADM is to move from top to bottom:
-
-- **Intent** explains why
-- **Context** explains under what conditions
-- **Capability** explains what the system does
-- **Service Interface** explains how that capability is exposed
-- **Execution Unit** explains what runs
-- **Component** explains what is built
-- **Technical Interface** explains how parts connect technically
-
-Then read across the model:
-
-- **Agent** for agent-specific responsibility and behavior
-- **Constraints** for hard limits and obligations
-- **Decisions** for chosen architectural direction and rationale
-
-## Common Modeling Mistakes
-
-### Mistake 1: Mixing goals with structure
-“Use a retrieval API” is not an Intent statement.
-It is closer to a Technical Interface or an implementation-oriented architectural choice.
-
-### Mistake 2: Confusing capability with interface
-“Chat endpoint” is not the capability.
-The capability is answering support questions.
-The chat endpoint is one interface exposing that capability.
-
-### Mistake 3: Treating a component as a policy
-“Audit logger” is a component.
-“All responses must be logged” is a constraint.
-
-### Mistake 4: Treating implementation details as architecture purpose
-“Use vector search” is not a statement of why the system exists.
-It is a lower-layer design or technical decision.
-
-## Summary
-
-ADM provides a disciplined way to describe architecture so that meaning remains stable across change.
-
-Use ADM to separate:
-
-- purpose from implementation
-- capability from interface
-- runtime behavior from structural composition
-- policy from mechanism
-- architecture from incidental detail
