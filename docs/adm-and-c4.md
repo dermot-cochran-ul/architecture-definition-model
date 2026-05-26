@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ADM and C4: Complementary, Not Competing
+title: "ADM and C4: Complementary, Not Competing"
 permalink: /adm-and-c4/
 ---
 
