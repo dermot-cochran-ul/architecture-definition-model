@@ -31,6 +31,11 @@ however, this repository is the authoritative reference location.
 - [Rules]({{ site.baseurl }}/rules/)
 - [Changelog]({{ site.baseurl }}/changelog/)
 
+## Testing Architecture
+- [Testing Architecture (ADM-Aligned)]({{ site.baseurl }}/testing/testing-architecture/)
+- [Traceability Matrix]({{ site.baseurl }}/testing/traceability-matrix/)
+- [Architecture Decision Records (ADRs)]({{ site.baseurl }}/adr/)
+
 ## Copyright and License
 Copyright © 2026.
 Authorship by Dermot Cochran.
