@@ -20,6 +20,8 @@ This repository contains:
 - Canonical definitions of ADM layers and concepts
 - Explanatory guides for applying ADM
 - Non‑authoritative examples and templates
+- Testing architecture extensions (see [docs/testing/](docs/testing/))
+- Architecture Decision Records (see [docs/adr/](docs/adr/))
 
 This repository does **not**:
 - Define implementation requirements
@@ -86,6 +88,27 @@ layer discipline and semantic rules.
 
 Significant changes should be proposed as documented decisions
 (Architecture Decision Records) rather than implicit edits.
+
+---
+
+## Testing Architecture
+
+ADM-aligned testing architecture documentation is available under [`docs/testing/`](docs/testing/):
+
+- [GenAI/LLM Testing Architecture](docs/testing/genai-llm-testing-architecture.md) — Testing strategy and automation architecture for LLM-powered systems
+- [GenAI Traceability Matrix](docs/testing/genai-traceability-matrix.md) — Capabilities → Constraints → Risks → Evidence mapping
+
+## Architecture Decision Records
+
+Recorded trade-off decisions are under [`docs/adr/`](docs/adr/):
+
+| ADR | Title |
+|---|---|
+| [ADR-GENAI-001](docs/adr/adr-genai-001-bleu-rouge-insufficient.md) | BLEU/ROUGE Are Insufficient Alone |
+| [ADR-GENAI-002](docs/adr/adr-genai-002-human-judgment-required.md) | Human Judgment Is Required for Quality |
+| [ADR-GENAI-003](docs/adr/adr-genai-003-temperature-fixed-in-ci.md) | Temperature Is Fixed During CI |
+| [ADR-GENAI-004](docs/adr/adr-genai-004-safety-over-accuracy.md) | Safety Metrics Outweigh Accuracy |
+| [ADR-GENAI-005](docs/adr/adr-genai-005-semantic-regression.md) | Regression Is Semantic, Not Textual |
 
 ---
 
