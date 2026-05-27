@@ -63,6 +63,14 @@ however, this repository remains the authoritative reference location.
 
 ---
 
+## Testing Architecture
+
+- [Testing Architecture (ADM-Aligned)](docs/testing/testing-architecture.md)
+- [Traceability Matrix](docs/testing/traceability-matrix.md)
+- [Architecture Decision Records (ADRs)](docs/adr/)
+
+---
+
 ## License
 
 This material is made available under the licenses below **to the extent
